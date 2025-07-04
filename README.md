@@ -1,18 +1,19 @@
 <div align="center">
 
-### FINRIPPLE: ALIGNING LARGE LANGUAGE MODELS WITH FINANCIAL MARKET FOR EVENT RIPPLE EFFECT AWARENESS
+### FinRipple: Aligning Large Language Models with Financial Market for Event Ripple Effect Awareness
+</div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-[![arxiv](https://img.shields.io/badge/arxiv-red)](https://arxiv.org/abs/2505.23826) 
-
-<a href="src/finripple_poster0701.pdf">
-  <img src="https://img.shields.io/badge/View%20Poster-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="View Poster PDF">
+<a href="https://arxiv.org/abs/2505.23826" style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/arxiv-red" alt="arxiv" style="height: 20px; vertical-align: middle;">
 </a>
 
----
-
+<a href="src/finripple_poster0701.pdf" style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/View%20Poster-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="View Poster PDF" style="height: 20px; vertical-align: middle;">
+</a>
 </div>
+
 ---
 
 ## Abstract
